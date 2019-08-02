@@ -1,0 +1,24 @@
+[
+  {
+    "name": "input",
+    "id": "fd-i-#",
+    "attr": {
+      "type": "text|number|password|file",
+      "disable": false,
+      "placeholder": "placeholder",
+      "focus": false
+    },
+    "label": "description",
+    "related": []
+  },
+  {
+    "name": "radio",
+    "id": "fd-r-#",
+    "attr": {
+      "checked": false,
+      "disable": false
+    },
+    "label": "description",
+    "related": []
+  }
+]
